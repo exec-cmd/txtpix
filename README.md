@@ -1,17 +1,17 @@
 English · [Русский](README.RU.md)
 
-<div align="center">
-
-<img src="assets/logo.svg" width="360" alt="txtpix logo">
+<p align="center">
+    <img src="assets/logo.svg" width="360" alt="logo txtpix">
+</p>
 
 # txtpix
 
 Turn images into text art and files into base64, from the terminal.
 
 [![CI](https://github.com/exec-cmd/txtpix/actions/workflows/ci.yml/badge.svg)](https://github.com/exec-cmd/txtpix/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-
-</div>
+[![Version Go](https://img.shields.io/github/go-mod/go-version/exec-cmd/txtpix)](go.mod)
+[![License: MIT](https://img.shields.io/github/license/exec-cmd/txtpix)](LICENSE)
+[![Last release](https://img.shields.io/github/v/release/exec-cmd/txtpix)](https://github.com/exec-cmd/txtpix/releases)
 
 ## Features
 
